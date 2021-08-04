@@ -15,8 +15,6 @@ class App extends React.Component {
     // console.log(this.state.data)
   }
 
-
-
   render() {
     const {data} = this.state
     return (
