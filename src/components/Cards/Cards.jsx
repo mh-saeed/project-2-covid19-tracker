@@ -1,9 +1,11 @@
 import React from 'react'
+import { Card, CardContent, Typography } from '@material-ui/core'
 
-const Cards = () => {
+const Cards = ({data}) => {
+    console.log(data)
     return (
         <div>
-            <h1>Card</h1>
+           
         </div>
     )
 }
