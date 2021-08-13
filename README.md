@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+## [Live Site](https://bootcamp2020_project2_covid19tracker.surge.sh/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
